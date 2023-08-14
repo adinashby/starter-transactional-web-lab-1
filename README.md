@@ -1,6 +1,6 @@
 # Transactional Web Applications - Lab 1
 
-This template repository is the starter project for Transactional Web Applications Lab 9. Written in JavaScript.
+This template repository is the starter project for Transactional Web Applications Lab 1. Written in JavaScript.
 
 ### Question(s)
 
